@@ -1,0 +1,19 @@
+{
+  "name": "angularjstesting",
+  "version": "1.0.0",
+  "description": "this app i am using for the purpose of angularjs learning purpose",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "karma-phantomjs-launcher": "^1.0.4"
+  },
+  "devDependencies": {
+    "karma": "^1.7.0",
+    "karma-ie-launcher": "^1.0.0",
+    "karma-jasmine": "^1.1.0"
+  }
+}

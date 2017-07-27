@@ -1,0 +1,21 @@
+{
+  "name": "agnularjs test app",
+  "description": "this app i am using for the purpose of angularjs learning purpose",
+  "main": "app.js",
+  "license": "ISC",
+  "homepage": "https://github.com/raviguru123/angularjstesting",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "angularjs#^1.6.5",
+    "karma": "^0.4.6",
+    "karma-jasmine": "^1.1.0",
+    "jasmine-core": "^2.6.4",
+    "angular-mocks": "^1.6.5"
+  }
+}
